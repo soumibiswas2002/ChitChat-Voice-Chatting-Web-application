@@ -1,0 +1,45 @@
+* {
+}
+.card-container {
+  width: 300px;
+  overflow: hidden;
+  box-shadow: 0 0 15px -5px;
+  padding: 10px 0;
+  margin: 20px 30px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.card-container:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px 0;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 10px;
+}
+.grid-item {
+  color: #fff;
+  padding: 15px;
+  font-size: 10px;
+  text-align: left;
+  border: none;
+}
+
+.Room_Container {
+  text-align: center;
+  /* display: flex; */
+  /* min-height: 100vh; */
+  align-items: center;
+  color: white;
+  /* justify-content: center; */
+  background-image: linear-gradient(79deg, #14023e, #02030d 25%, #01104b);
+  height: 100vh;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+

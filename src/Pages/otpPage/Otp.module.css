@@ -1,0 +1,10 @@
+.otpfield {
+  width: 25px;
+}
+
+.otpforms {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+}

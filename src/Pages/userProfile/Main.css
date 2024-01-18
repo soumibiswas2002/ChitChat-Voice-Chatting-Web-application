@@ -1,0 +1,33 @@
+/* .main {
+  background-image: linear-gradient(79deg, #14023e, #02030d 25%, #01104b);
+} */
+.profile_img {
+  padding: 3rem;
+}
+
+.profile_titles {
+  font-size: 3rem !important;
+  color: white !important;
+}
+
+.profile_emails {
+  font-size: 1.5rem !important;
+  color: white !important;
+}
+
+.profile_bio {
+  font-size: 0.5rem !important;
+  color: white !important;
+}
+
+
+/* .profile_bodys {
+  font-size: 20px !important;
+  font-size: white;
+} */
+
+/* .profile_bio {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+} */
